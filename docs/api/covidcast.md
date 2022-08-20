@@ -1,5 +1,6 @@
 ---
 title: COVIDcast Main Endpoint
+parent: Epidata API Home
 has_children: true
 nav_order: 1
 ---
