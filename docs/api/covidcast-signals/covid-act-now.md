@@ -1,7 +1,6 @@
 ---
 title: COVID Act Now
 parent: Data Sources and Signals
-grand_parent: COVIDcast Main Endpoint
 ---
 
 # COVID Act Now (CAN)

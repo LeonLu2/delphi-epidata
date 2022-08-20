@@ -1,6 +1,5 @@
 ---
 title: Epidata API Home
-has_children: true
 nav_order: 0
 ---
 

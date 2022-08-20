@@ -1,7 +1,6 @@
 ---
 title: SafeGraph
 parent: Data Sources and Signals
-grand_parent: COVIDcast Main Endpoint
 ---
 
 # SafeGraph

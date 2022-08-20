@@ -1,7 +1,6 @@
 ---
 title: COVID-19 Trends and Impact Survey
 parent: Data Sources and Signals
-grand_parent: COVIDcast Main Endpoint
 ---
 
 # COVID-19 Trends and Impact Survey
