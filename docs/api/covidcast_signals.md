@@ -1,7 +1,7 @@
 ---
 title: Data Sources and Signals
 parent: COVIDcast Main Endpoint
-nav_order: 2
+nav_order: 3
 ---
 
 # Delphi's COVID-19 Data Sources and Signals
